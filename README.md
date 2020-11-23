@@ -18,4 +18,5 @@ I started development by modifying a cheat client on Wakfu in 2016 :s
 I'm belgian, and proud of it ! I'm passionate about space, and I try to improve my knowledge in astronomy 
 
 ## My favorite softwatre:
-https://aleen42.github.io/badges/src/visual_studio_code.svg
+
+[![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
