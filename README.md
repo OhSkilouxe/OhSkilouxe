@@ -10,7 +10,7 @@
 
 ## My Social Network :
 
-<a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@skilouxe-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/skilouxe"><img src="https://img.shields.io/badge/twitter%20@skilouxe-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 ## About me :
 I'm Skilouxe! I've been developing since I was 11 (I'm almost 15 now), and I love it. Right now what I like is the design. Figma, I loove it!  My goal is to become a full-stack developer in 3 years, I allow myself this time to greatly improve my skills and learn new technologies. 
