@@ -23,3 +23,7 @@ I'm belgian, and proud of it ! I'm passionate about space, and I try to improve 
 - Figma (for design UI/UX interface)
 - Firefox
 - And... Google ! (for searching docs :p)
+
+## Github Profile Stats :
+
+[![Skilouxe github stats](https://github-readme-stats.vercel.app/api?username=OhSkilouxe&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
