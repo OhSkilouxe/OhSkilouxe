@@ -14,12 +14,12 @@
 
 ## About me :
 
-#🐤 - I'm Skilouxe! I've been developing since I was 11 (I'm almost 15 now), and I love it. Right now what I like is the design. Figma, I loove it!
-#🌟 - My goal is to become a full-stack developer in 3 years, I allow myself this time to greatly improve my skills and learn new technologies.
-#🦅 - I started development by modifying a cheat client on Wakfu in 2016 :s
-#🇧🇪  - I'm belgian, and proud of it !
-#🌠 -  I'm passionate about space, and I try to improve my knowledge in astronomy
+# 🐤 - I'm Skilouxe! I've been developing since I was 11 (I'm almost 15 now), and I love it. Right now what I like is the design. Figma, I loove it!
+# 🌟 - My goal is to become a full-stack developer in 3 years, I allow myself this time to greatly improve my skills and learn new technologies.
+# 🦅 - I started development by modifying a cheat client on Wakfu in 2016 :s
+# 🇧🇪  - I'm belgian, and proud of it !
+# 🌠 -  I'm passionate about space, and I try to improve my knowledge in astronomy
 
 ## My favorite softwatre:
 
-https://img.shields.io/badge/Visual%20Studio%20Code-I%20love%20it!-%233498db
+https://img.shields.io/badge/Visual%20Studio%20Code-%E2%9A%A1-3498db
