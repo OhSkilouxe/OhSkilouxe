@@ -13,13 +13,9 @@
 <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@skilouxe-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 ## About me :
-
-🐤 - I'm Skilouxe! I've been developing since I was 11 (I'm almost 15 now), and I love it. Right now what I like is the design. Figma, I loove it! \n
-🌟 - My goal is to become a full-stack developer in 3 years, I allow myself this time to greatly improve my skills and learn new technologies. \n
-🦅 - I started development by modifying a cheat client on Wakfu in 2016 :s \n
-🇧🇪  - I'm belgian, and proud of it ! \n
-🌠 -  I'm passionate about space, and I try to improve my knowledge in astronomy \n
+I'm Skilouxe! I've been developing since I was 11 (I'm almost 15 now), and I love it. Right now what I like is the design. Figma, I loove it!  My goal is to become a full-stack developer in 3 years, I allow myself this time to greatly improve my skills and learn new technologies. 
+I started development by modifying a cheat client on Wakfu in 2016 :s 
+I'm belgian, and proud of it ! \nI'm passionate about space, and I try to improve my knowledge in astronomy 
 
 ## My favorite softwatre:
-
-https://img.shields.io/badge/Visual%20Studio%20Code-%E2%9A%A1-3498db
+https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=%E2%9A%A1&color=#3498db
