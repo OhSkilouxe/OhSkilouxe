@@ -18,4 +18,4 @@ I started development by modifying a cheat client on Wakfu in 2016 :s
 I'm belgian, and proud of it ! I'm passionate about space, and I try to improve my knowledge in astronomy 
 
 ## My favorite softwatre:
-https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=%E2%9A%A1&color=#3498db
+https://aleen42.github.io/badges/src/visual_studio_code.svg
