@@ -17,7 +17,7 @@ I'm Skilouxe! I've been developing since I was 11 (I'm almost 15 now), and I lov
 I started development by modifying a cheat client on Wakfu in 2016 :s 
 I'm belgian, and proud of it ! I'm passionate about space, and I try to improve my knowledge in astronomy 
 
-## My favorite softwatre:
+## My favorite software:
 
 - Visual Studio Code
 - Figma (for design UI/UX interface)
