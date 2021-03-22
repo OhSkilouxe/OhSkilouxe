@@ -25,7 +25,7 @@
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/OhSkilouxe/)](https://github.com/OhSkilouxe/)
 
 ## My Social Network :
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=#)](https://t.me/luiz740)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=#)](https://t.me)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skilouxe@gmail.com)](mailto:luiz7401@gmail.com)
 
 ## About me :
