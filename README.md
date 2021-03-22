@@ -26,7 +26,7 @@
 
 ## My Social Network :
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=#)](https://t.me)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skilouxe@gmail.com)](mailto:luiz7401@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skilouxe@gmail.com)](mailto:skilouxe@gmail.com)
 
 ## About me :
 I'm Skilouxe! I've been developing since I was 11 (I'm almost 15 now), and I love it. Right now what I like is the design. Figma, I loove it!  My goal is to become a full-stack developer in 3 years, I allow myself this time to greatly improve my skills and learn new technologies. 
