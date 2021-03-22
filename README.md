@@ -28,6 +28,9 @@ I'm Skilouxe! I've been developing since I was 11 (I'm almost 15 now), and I lov
 I started development by modifying a cheat client on Wakfu in 2016 :s 
 I'm belgian, and proud of it ! I'm passionate about space, and I try to improve my knowledge in astronomy 
 
+[![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
 ## My favorite software:
 
 - Visual Studio Code
