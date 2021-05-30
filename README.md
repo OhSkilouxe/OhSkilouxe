@@ -3,7 +3,7 @@ Hello! I’m Skilouxe, I’m a front-end developer in my spare time right now, a
 
 ## Technologies
 
- work mainly with [NodeJS](https://node. js. org/) for the back-end of my projects, and with [SvelteJS/SvelteKit](https://svelte. dev/) as the front-end framework 💚
+ work mainly with [NodeJS](https://node.js.org/) for the back-end of my projects, and with [SvelteJS/SvelteKit](https://svelte.dev/) as the front-end framework 💚
  
  ## Other technologies I know how to use
  
