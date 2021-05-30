@@ -1,3 +1,4 @@
+![Banner](https://pbs.twimg.com/profile_banners/1229029795964555269/1622315521/600x200) 
 # Skilouxe
 Hello! I’m Skilouxe, I’m a front-end developer in my spare time right now, and I’d like to make it my job later. 💜
 
